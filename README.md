@@ -23,13 +23,21 @@ Neural network to get the best Q-value for an action given an state, However, Wh
 Memory Replay to train de Neural network.
 
 If you want learn more about Q-Learning and Deep Q-Network:
+
 Q-Learing and Q-Learning Algorithm.
+
 https://medium.com/@jonathan_hui/rl-dqn-deep-q-network-e207751f7ae4
+
 Markov Decission Process:
+
 https://en.wikipedia.org/wiki/Markov_decision_process
+
 Epsilon Greedy policy
+
 https://medium.com/analytics-vidhya/the-epsilon-greedy-algorithm-for-reinforcement-learning-5fe6f96dc870
 
 Thank you to
+
 Andrés Matesanz
+
 https://github.com/Matesanz
